@@ -21,7 +21,7 @@
 
 - [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by the MythX team
 - [Sabre](https://github.com/b-mueller/sabre) - Security analyzer for Solidity smart contracts written in JavaScript
-- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 8 EVM chains.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
 
 
 ## Continuous integration howtos
